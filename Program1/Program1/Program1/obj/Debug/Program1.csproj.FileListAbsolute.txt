@@ -1,0 +1,11 @@
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.Program1.resources
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\Prince Chenou\Downloads\CIS 199\Program1\Program1\obj\Debug\Program1.pdb
